@@ -5,7 +5,7 @@ EleanorServ - Замена денверу
 Интересной особенностью тут является то, что вместо MySQL используется его форк с лучшей производительностью от тех же разработчиков и с полной совместимостью с MySQL.
 -
 
-![alt text](https://skrinshoter.ru/s/270823/tk4AV7jP.jpg)
+![alt text](https://github.com/moneyrobot2023/EleanorServ/blob/main/logo.jpg)
 
 
 
