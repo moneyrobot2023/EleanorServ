@@ -18,4 +18,14 @@ PhpMyAdmin 3.4.2
 SlimFTPd 3.1.81
 DNS Unbound 1.4.10
 -
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/moneyrobot2023/EleanorServ/blob/main/1336811453_3.png)
+
+![alt text](https://github.com/moneyrobot2023/EleanorServ/blob/main/1336811517_4.png)
+
+
+![alt text](https://github.com/moneyrobot2023/EleanorServ/blob/main/Интересной.png)
+ ![alt text](https://goplayminecraft.ru/images/wp-content/uploads/telegram-gruppa.png
+ СТАРАЯ ГРУППА https://t.me/softnull2022
+ -
+ Новая ГРУППА  https://t.me/softwarenulled
+ -
