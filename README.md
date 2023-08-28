@@ -24,7 +24,7 @@ DNS Unbound 1.4.10
 
 
 ![alt text](https://github.com/moneyrobot2023/EleanorServ/blob/main/Интересной.png)
- ![alt text](https://goplayminecraft.ru/images/wp-content/uploads/telegram-gruppa.png
+ ![alt text](https://goplayminecraft.ru/images/wp-content/uploads/telegram-gruppa.png)
  СТАРАЯ ГРУППА https://t.me/softnull2022
  -
  Новая ГРУППА  https://t.me/softwarenulled
